@@ -1,7 +1,7 @@
 /**
  * This is the main code that runs
  * with the Vehicle Class.
- * By: Mr Coxall
+ * By: Mr Coxall.
  * Version: 1.0
  * Since:   2022-10-17
  */
